@@ -1,0 +1,18 @@
+<!DOCTYPE HTML> 
+<html>
+<head>
+</head>
+<body> 
+
+
+<h2>PHP 验证实例</h2>
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"> 
+   TEXT：<textarea name="comment" rows="5" cols="40"></textarea>
+   <br><br>
+   <input type="submit" name="submit" value="提交"> 
+   <input type="button" name="show" id="show" value="清空" onClick="bt_click()"/>
+</form>
+
+</body>
+</html>
+
