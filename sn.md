@@ -19,3 +19,5 @@ https://pan.baidu.com/s/1VXgbC-giBof1UV88Hkox_Q
 pmfq 
 
 本步骤将会安装mysql数据库（mysql-installer-community-5.7.17.0）和数据库管理程序（mysql\mysql-gui-tools-5.0-r17-win32.msi）
+
+32KB：300Mbps CPU：87% 内存：77%（800新建）
